@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "practicemod:block/iron_bucket_top",
+    "bottom": "practicemod:block/iron_bucket_bottom",
+    "side": "practicemod:block/iron_bucket_side"
+  }
+}

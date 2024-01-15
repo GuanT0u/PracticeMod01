@@ -1,0 +1,14 @@
+{
+  "block.practicemod.silver_block": "Silver Block",
+  "block.practicemod.raw_silver_block": "Raw Silver Block",
+
+  "item.practicemod.magic_stick": "Magic Stick",
+  "item.practicemod.magic_teleportation_stone": "Magic Teleportation Stone",
+  "item.practicemod.silver_ingot": "Silver Ingot",
+  "item.practicemod.fermented_wheat": "Fermented Wheat",
+  "item.practicemod.liquor": "Liquor",
+
+  "item.practicemod.blue_blade": "Blue Blade",
+
+  "itemGroup.practicemod.practicetab": "Practice Tab"
+}

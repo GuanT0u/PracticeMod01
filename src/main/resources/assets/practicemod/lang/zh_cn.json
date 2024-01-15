@@ -1,0 +1,14 @@
+{
+  "block.practicemod.silver_block": "银块",
+  "block.practicemod.raw_silver_block": "银块",
+
+  "item.practicemod.magic_stick": "魔棒",
+  "item.practicemod.magic_teleportation_stone": "魔法传送石",
+  "item.practicemod.silver_ingot": "银锭",
+  "item.practicemod.fermented_wheat": "发酵小麦",
+  "item.practicemod.liquor": "酒",
+
+  "item.practicemod.blue_blade": "青釭剑",
+
+  "itemGroup.practicemod.practicetab": "练习物品栏"
+}
